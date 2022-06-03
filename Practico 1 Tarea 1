@@ -1,0 +1,5 @@
+if (<=2000) {
+pagar en efectivo
+} else {
+pagar con tarjeta de credito
+}
