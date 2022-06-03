@@ -1,7 +1,5 @@
 # TÉCNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
 
-## Instituto Superior Politécnico Córdoba
-
 ![ISPC](http://drive.google.com/uc?export=view&id=1WQ7jzUPaGrOdj6j1RrliZpUp2aXIZyQr)
 
 
