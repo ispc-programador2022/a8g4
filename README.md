@@ -1,10 +1,12 @@
 # TÉCNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
 
-![ISPC](http://drive.google.com/uc?export=view&id=1WQ7jzUPaGrOdj6j1RrliZpUp2aXIZyQr)
-
 ## Instituto Superior Politécnico Córdoba
 
-###### **AULA 8 - GRUPO 4**
+![ISPC](http://drive.google.com/uc?export=view&id=1WQ7jzUPaGrOdj6j1RrliZpUp2aXIZyQr)
+
+
+
+# **AULA 8 - GRUPO 4**
 
 > **Integrantes**
 
