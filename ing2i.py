@@ -6,8 +6,8 @@ para luego realizar con ellos distintas operaciones.
 
 while True:                         #creamos un bucle para ejecutar un TRY en busca "SALVAR" ingresos no permitidos
     try:
-        val1 = input("por favor ingresa un valor entero para N°1 ")  #solicito ingreso de primer valor
-        int(val1)     #como el input es un string, lo convierto en entero para poder realizar operaciones
+        v1 = input("por favor ingresa un valor entero para N°1 ")  #solicito ingreso de primer valor
+        val1 = int(v1)     #como el input es un string, lo convierto en entero para poder realizar operaciones
         break               #salimos del bucle si no hay errores
     except ValueError:
         print("el ingreso no es un numero entero") #en caso de error informo el mismo y vuelve a ingresar al bucle
