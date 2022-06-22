@@ -1,7 +1,6 @@
 """
 Autor: Pablo Lonardi
-ing2i.py - creacion de una funcion que solicita el ingreso de 2 numeros enteros que luego almacenamos en variables
-para luego realizar con ellos distintas operaciones.
+ing2i.py - creacion de una funcion que solicita el ingreso de 2 numeros enteros
 """
 def ing2i():                                #definimos la funcion llamada ing2i.
 
