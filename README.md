@@ -18,7 +18,7 @@
 
 * Maidana, Daniela
 
-* Margan, Héctor
+* Mansilla, Natalia Micaela
 
 * Manzano, Fernanda
 
@@ -38,4 +38,4 @@
 
 * Martínez, M. Luz
 
-* Mansilla, Natalia Micaela
+
